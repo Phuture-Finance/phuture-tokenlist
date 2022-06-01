@@ -1,0 +1,29 @@
+{
+  "name": "Phuture",
+  "keywords": [
+    "phuture",
+    "defi",
+    "indexes"
+  ],
+  "timestamp": "2022-06-01T00:00:00+00:00",
+  "version": {
+    "major": 0,
+    "minor": 1,
+    "patch": 0
+  },
+  "tokens": [
+    {
+      "chainId": 1,
+      "address": "0x632806BF5c8f062932Dd121244c9fbe7becb8B48",
+      "decimals": 18,
+      "name": "Phuture DeFi Index",
+      "symbol": "PDI",
+      "logoURI": "https://raw.githubusercontent.com/Phuture-Finance/phuture-tokenlist/main/assets/indexes/PDI.png",
+      "tags": [
+        "phuture",
+        "defi",
+        "index"
+      ]
+    }
+  ]
+}

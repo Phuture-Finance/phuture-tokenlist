@@ -1,0 +1,13 @@
+{
+  "chainId": 1,
+  "name": "Phuture DeFi Index",
+  "symbol": "PDI",
+  "decimals": 18,
+  "icon": "https://raw.githubusercontent.com/Phuture-Finance/phuture-tokenlist/main/assets/indexes/PDI/icon.png",
+  "description": "The Phuture DeFi Index (PDI) offers exposure to the top crypto assets in the decentralised finance sector by market capitalisation.",
+  "url": "https://app.phuture.finance/index/0x632806bf5c8f062932dd121244c9fbe7becb8b48",
+  "covers": {
+    "desktop": "https://raw.githubusercontent.com/Phuture-Finance/phuture-tokenlist/main/assets/indexes/PDI/covers/desktop.png",
+    "mobile": "https://raw.githubusercontent.com/Phuture-Finance/phuture-tokenlist/main/assets/indexes/PDI/covers/mobile.png",
+  }
+}

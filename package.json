@@ -1,0 +1,15 @@
+{
+  "type": "module",
+  "scripts": {
+    "validate": "node validate.js"
+  },
+  "devDependencies": {
+    "@uniswap/token-lists": "^1.0.0-beta.34",
+    "ajv": "^8.16.0",
+    "ajv-formats": "^3.0.1",
+    "node-fetch": "^3.3.2"
+  },
+  "dependencies": {
+    "winston": "^3.13.0"
+  }
+}

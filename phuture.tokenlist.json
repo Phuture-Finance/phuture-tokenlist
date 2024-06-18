@@ -1,4 +1,5 @@
 {
+  "$schema": "https://raw.githubusercontent.com/Uniswap/token-lists/main/src/tokenlist.schema.json",
   "name": "Phuture",
   "keywords": [
     "phuture",
@@ -18,12 +19,14 @@
       "decimals": 18,
       "name": "Phuture DeFi Index",
       "symbol": "PDI",
-      "logoURI": "https://raw.githubusercontent.com/Phuture-Finance/phuture-tokenlist/main/assets/indexes/PDI.png",
       "tags": [
         "phuture",
         "defi",
         "index"
-      ]
+      ],
+      "extensions": {
+        "coingeckoId": "phuture-defi-index"
+      }
     }
   ]
 }
